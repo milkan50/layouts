@@ -1,0 +1,97 @@
+.Full{padding: 20px;
+    background-color: #F2F2F2;
+    padding-left: 60px;
+    padding-right: 60px;
+
+}
+.logo{
+    width: 40%;
+    height: 100px;
+    background-color: #C0C0C0;
+    text-align: center;
+    float: left;
+    margin-bottom: 2%;
+    
+}
+
+.Navigation{
+    width: 60%;
+    height: 100px;
+    background-color: #C0C0C0;
+    text-align: center;
+    float: right;
+    margin-bottom: 2%;
+    
+}
+
+
+.Intro{
+    
+    width: 22%;
+    height: 250px;
+    background-color: #C0C0C0;
+    text-align: center;
+    float: left;
+    margin-left: 3%;
+    margin-bottom: 3%;
+    
+    
+}
+
+
+.content{
+    width: 100%;
+    height: 300px;
+    margin-top: 4%;
+    clear: both;
+}
+
+.sidebar{
+    width: 30%;
+    height: 300px;
+    background-color: #C0C0C0;
+    
+    text-align: center;
+    float: left;
+    
+    
+    
+}
+
+
+.maincontent{
+    
+    width: 30%;
+    height: 300px;
+    background-color: #C0C0C0;
+    
+    text-align: center;
+    margin-left:5%; 
+    float: right;
+}
+
+
+
+.footer{
+    width: 100%;
+    height: 70px;
+    background-color: #C0C0C0;
+    text-align: center;
+    margin-top: 2%;
+    
+}
+.whole{
+    
+    width: 100%;
+    height: 500px;
+    clear: both;
+}
+
+.bla{
+    width: 25%;
+    height: 250px;
+    background-color: #C0C0C0;
+    text-align: center;
+    float: left;
+    
+    margin-bottom: 3%;}
